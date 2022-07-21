@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto+Condensed:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+body{
+    margin-top: 10px;
+    background-color: rgb(3, 3, 3); 
+    text-align: center;
+}
+
+h1{
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(235, 232, 221);
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    text-shadow: 2px 2px rgb(27, 27, 27);
+    border-style: solid;
+    border-color: rgb(231, 231, 70);
+    border-radius: 50px;
+    background-color: black;
+}
+
+img.main{
+    padding-top: 5px;
+    padding-bottom: 10px;
+    width: 50%;
+    height: auto;
+    
+}
+.contact{
+    background-color: black;
+    border: 3px solid rgb(226, 226, 49);
+    border-radius: 50px;
+    padding-bottom: 10px;
+}
+h3{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    color: rgb(235, 232, 221);
+    padding-top: 5px;
+    text-shadow: 2px 2px rgb(27, 27, 27);
+}
+li{
+    text-decoration: none;
+    display: inline;
+}
+
+img.facebook{
+    width: 30px;
+}
+img.whatsapp{
+    width: 30px;
+}
+img.twitter{
+    width: 30px;
+}
+img.linkedin{
+    width: 30px;
+}
+img.instargram{
+    width: 30px;
+}
